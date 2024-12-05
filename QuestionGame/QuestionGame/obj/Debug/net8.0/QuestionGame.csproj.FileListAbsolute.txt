@@ -1,0 +1,14 @@
+C:\Users\eden\source\repos\QuestionGame\QuestionGame\bin\Debug\net8.0\QuestionGame.exe
+C:\Users\eden\source\repos\QuestionGame\QuestionGame\bin\Debug\net8.0\QuestionGame.deps.json
+C:\Users\eden\source\repos\QuestionGame\QuestionGame\bin\Debug\net8.0\QuestionGame.runtimeconfig.json
+C:\Users\eden\source\repos\QuestionGame\QuestionGame\bin\Debug\net8.0\QuestionGame.dll
+C:\Users\eden\source\repos\QuestionGame\QuestionGame\bin\Debug\net8.0\QuestionGame.pdb
+C:\Users\eden\source\repos\QuestionGame\QuestionGame\obj\Debug\net8.0\QuestionGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eden\source\repos\QuestionGame\QuestionGame\obj\Debug\net8.0\QuestionGame.AssemblyInfoInputs.cache
+C:\Users\eden\source\repos\QuestionGame\QuestionGame\obj\Debug\net8.0\QuestionGame.AssemblyInfo.cs
+C:\Users\eden\source\repos\QuestionGame\QuestionGame\obj\Debug\net8.0\QuestionGame.csproj.CoreCompileInputs.cache
+C:\Users\eden\source\repos\QuestionGame\QuestionGame\obj\Debug\net8.0\QuestionGame.dll
+C:\Users\eden\source\repos\QuestionGame\QuestionGame\obj\Debug\net8.0\refint\QuestionGame.dll
+C:\Users\eden\source\repos\QuestionGame\QuestionGame\obj\Debug\net8.0\QuestionGame.pdb
+C:\Users\eden\source\repos\QuestionGame\QuestionGame\obj\Debug\net8.0\QuestionGame.genruntimeconfig.cache
+C:\Users\eden\source\repos\QuestionGame\QuestionGame\obj\Debug\net8.0\ref\QuestionGame.dll
